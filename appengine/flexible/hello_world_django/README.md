@@ -34,7 +34,7 @@ This project was created using standard Django commands:
     $ django-admin startproject project_name
     $ python manage.py startapp helloworld
 
-Then, we added a simple view in `hellworld.views`, added the app to
+Then, we added a simple view in `helloworld.views`, added the app to
 `project_name.settings.INSTALLED_APPS`, and finally added a URL rule to
 `project_name.urls`.
 
